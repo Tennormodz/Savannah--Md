@@ -35,7 +35,7 @@
 ## STEPS TO DEPLOY YOUR BOT
 
 
-Star the repo up there then click Here To  [`FORK`](https://github.com/Tennormodz/Savannah-Md/fork)
+Star the repo up there then click Here To  [`FORK`](https://github.com/Tennormodz/Savannah--Md/fork)
  TAP DEPLOY.., AND DEPLOY IT ON HEROKU 
 
 ## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  Savannah 𝙈𝘿
@@ -45,7 +45,7 @@ Star the repo up there then click Here To  [`FORK`](https://github.com/Tennormod
 
  <h1 align="center">
 
-   ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Tennormodz/Savannah-Md&template=https://github.com/Tennormodz/Savannah-MD.git)***
+   ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Tennormodz/Savannah--Md&template=https://github.com/Tennormodz/Savannah--MD.git)***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
