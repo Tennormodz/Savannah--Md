@@ -73,7 +73,7 @@ Connect with  me:
     <img alt="CLICK HERE " src="https://img.shields.io/badge/ FOLLOW NOW  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+Follow and subscribe to my you tube channel below
 <a href="https://youtube.com/@gideonowino-gc2ry?si=EF9V0pNRVRya_hjM"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
 
 
