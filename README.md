@@ -1,7 +1,7 @@
 ![1000545926](https://telegra.ph/file/adf78ff19a2ea6b17a123.jpg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">Tennor MD </h1>
+ <h1 align="center">Savannah MD </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
