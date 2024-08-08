@@ -10,7 +10,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
 
 RUN git clone https://github.com/ibrahimaitech/IBRAHIM-AI-10.10.git  /root/BmwMD
-WORKDIR /root/tennormd/
+WORKDIR /root/savannah/
 
 
 COPY package.json .
