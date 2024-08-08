@@ -49,7 +49,7 @@ Star the repo up there then click Here To  [`FORK`](https://github.com/Tennormod
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   
+Connect with  me:
   
 
 
@@ -58,12 +58,12 @@ Star the repo up there then click Here To  [`FORK`](https://github.com/Tennormod
 ## Contributions
 
 
-Contributions to *Tennor-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *Savannah-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
 
 ## License
 
-The *Tennor-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *Savannah-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *Savannah-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by Giddy Tennor 
