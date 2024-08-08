@@ -74,7 +74,7 @@ Connect with  me:
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
+<a href="https://youtube.com/@gideonowino-gc2ry?si=EF9V0pNRVRya_hjM"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
 
 
 
