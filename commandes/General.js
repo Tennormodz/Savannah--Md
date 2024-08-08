@@ -6,7 +6,7 @@ const { france } = require("../framework/france");
 const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
 
-france({ nomCom: "owner", categorie: "General", reaction: "🧔" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "owner", categorie: "General", reaction: "👀" }, async (dest, zk, commandeOptions) => {
     const { ms , mybotpic } = commandeOptions;
     
   const thsudo = await isSudoTableNotEmpty()
@@ -59,12 +59,12 @@ france({ nomCom: "developer", categorie: "General", reaction: "🌚" }, async (d
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "France King", numero: "254746440595" },
+      { nom: "Giddy Tennor", numero: "254703726139" },
       { nom: "᚛Tennor TECH᚜", numero: "254104245659" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Yezaa 😁\n *Welcome to Tennor-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Tennor Tech_*\n*◇AGE: 19*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://www.instagram.com/giddy_owis_?igsh=YzZ0NDRoaXFxM2Zkn*◇Twitter: https://twitter.com/cheeky_pythooz*\n\n______________________________\n\n*🚖KEEP USING Tennor-MD🚖*\n\n\n_The following are my contacts_:\n:";
+    let message = "Yezaa 😁\n *Welcome to Savannah-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Tennor Tech_*\n*◇AGE: 19*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://www.instagram.com/giddy_Tennor_?igsh=YzZ0NDRoaXFxM2Zkn*◇Twitter: https://twitter.com/cheeky_pythooz*\n\n______________________________\n\n*🚖KEEP USING Savannah-MD🚖*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
