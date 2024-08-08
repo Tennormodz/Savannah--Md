@@ -24,7 +24,7 @@
 
 
   
- [PAIRING CODE]  ***[`TAP HERE TO SCAN SAVANNAH PAIRING CODE`](https://flazy-78fb5aa53dcb.herokuapp.com/pair)***
+ [PAIRING CODE]  ***[`TAP HERE TO SCAN SAVANNAH PAIRING CODE`](https://savannahpairing-6c77aca09bc3.herokuapp.com/pair)***
 
 
 
