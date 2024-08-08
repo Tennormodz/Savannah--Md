@@ -1,33 +1,33 @@
 {
-  "name":"Tennor-MD",
+  "name":"Savannah-MD",
   "description":"bot whatsapp developed by  Giddy Tennor",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/6541780dd8ce59d74ec98.jpg",
-  "repository":"https://github.com/gidiowis/Tennor-MD",
+  "logo":"https://telegra.ph/file/d9d1293884b31fd0c928d.jpg",
+  "repository":"https://github.com/Tennormodz/Savannah--Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
     "PREFIX":
     {
-      "description":"choose your prefix of bot",
+      "description":"choose your prefix of bot you want",
       "value":".",
       "required":true
     },
     "AUTO_READ_STATUS":
     {
-      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "description":"Your contact status will be read automatically by savannah bot(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
-      "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
+      "description":"Your contact status will be download automatically and send to you by savannah bot(type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
       "required":false
     }
     ,
      "PM_PERMIT" :
      {
-      "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
+      "description":"Other user can't use your bot in private chat(type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
       "required":false
     }
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Tennor-MD",
+      "value":"Savannah-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/6541780dd8ce59d74ec98.jpg",
+      "value":"https://telegra.ph/file/d9d1293884b31fd0c928d.jpg",
       "required":false
        
      },
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": " Giddy Tennor"
+    "value": " "
   },
     "NUMERO_OWNER":
   {
