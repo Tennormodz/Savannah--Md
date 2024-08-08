@@ -78,7 +78,10 @@ Follow and subscribe to my you tube channel below
 
 
 <a href="https://youtube.com/@gideonowino-gc2ry?si=EF9V0pNRVRya_hjM"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
+Get me on Telegram
 
+
+<a href="https://t.me/Giddy_Tennor"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 
 
 ## Contributions
