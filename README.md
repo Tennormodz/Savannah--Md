@@ -1,4 +1,4 @@
-![1000545926](https://github.com/gidiowis/Tennor-MD/assets/160538903/53a2ef1c-9c3c-446e-ada8-4e9aee12825e)
+![1000545926](https://telegra.ph/file/adf78ff19a2ea6b17a123.jpg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">Tennor MD </h1>
