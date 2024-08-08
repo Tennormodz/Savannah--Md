@@ -20,11 +20,11 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-[QR CODE]  ***[`TAP HERE TO SCAN SAVANNAH QR CODE`](https://ultrazy-53593a853dec.herokuapp.com/)***
+[QR CODE]  ***[`TAP HERE TO SCAN SAVANNAH QR CODE`](https://ibrahim-tech-qr-1-2-1.onrender.com/)***
 
 
   
- [PAIRING CODE]  ***[`TAP HERE TO SCAN SAVANNAH PAIRING CODE`](https://ultrazy-53593a853dec.herokuapp.com/)***
+ [PAIRING CODE]  ***[`TAP HERE TO SCAN SAVANNAH PAIRING CODE`](https://flazy-78fb5aa53dcb.herokuapp.com/pair)***
 
 
 
