@@ -24,7 +24,8 @@
 
 
   
- [QR] ***[`TAP HERE TO SCAN QR`](https://ultrazy-53593a853dec.herokuapp.com/)***
+ ## 2. GET SESSION ID
+<a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
