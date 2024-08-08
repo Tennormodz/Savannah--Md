@@ -35,7 +35,7 @@
 ## STEPS TO DEPLOY YOUR BOT
 
 
-Star the repo up there then click Here To  [`FORK`](https://GitHub.com/Tennormodz/Savannah--Md/fork)
+- <a href="https://GitHub.com/Tennormodz/Savannah--Md/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
  TAP DEPLOY.., AND DEPLOY IT ON HEROKU 
 
 ## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  Savannah 𝙈𝘿
