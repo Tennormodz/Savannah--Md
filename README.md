@@ -63,7 +63,7 @@ Connect with  me:
 
 #### SUPPORT THE PROJECT 
 1. **JOIN OUR SUPPORT GROUP**
-- <a href="https://whatsapp.com/channel/0029VadqmtNA89MlYOW7Ep2n" target="_blank">
+- <a href="https://chat.whatsapp.com/Dy45nOiMm8ECJLdIR2wBbB" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN NOW 🚀 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
