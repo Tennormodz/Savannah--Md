@@ -20,12 +20,12 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-<a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
+[QR CODE]  ***[`TAP HERE TO SCAN SAVANNAH QR CODE`](https://ultrazy-53593a853dec.herokuapp.com/)***
 
 
   
- ## 2. GET SESSION ID
-<a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
+ [PAIRING CODE]  ***[`TAP HERE TO SCAN SAVANNAH PAIRING CODE`](https://ultrazy-53593a853dec.herokuapp.com/)***
+
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -35,17 +35,17 @@
 ## STEPS TO DEPLOY YOUR BOT
 
 
-Star the repo up there then click Here To  [`FORK`](https://github.com/gidiowis/Tennor-MD/fork)
+Star the repo up there then click Here To  [`FORK`](https://github.com/Tennormodz/Savannah-Md/fork)
  TAP DEPLOY.., AND DEPLOY IT ON HEROKU 
 
-## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  Tennor 𝙈𝘿
+## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  Savannah 𝙈𝘿
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  <h1 align="center">
 
-   ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/gidiowis/Tennor-MD&template=https://github.com/gidiowis/Tennor-MD.git)***
+   ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Tennormodz/Savannah-Md&template=https://github.com/Tennormodz/Savannah-MD.git)***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -65,7 +65,7 @@ Contributions to *Tennor-MD* are welcome! If you have ideas for new features, im
 
 The *Tennor-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *Tennor-MD*  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of the *Savannah-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by Giddy Tennor 
 <a><img [src=''/></a>](https://ibb.co/Jn24z80)
 <a><img [src=''/></a>](https://ibb.co/Jn24z80)
