@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: Tennor-MD
+    name: Savannah-MD
     env: node
     branch: main
-    repo: https://github.com/gidiowis/Tennor-MD.git
+    repo: https://github.com/Tennormodz/Savannah-MD.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
