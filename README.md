@@ -20,7 +20,7 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://ultrazy-53593a853dec.herokuapp.com/)***
+<a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
 
 
   
